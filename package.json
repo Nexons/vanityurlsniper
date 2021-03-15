@@ -1,0 +1,32 @@
+{
+  "name": "vanitysniper",
+  "version": "1.0.0",
+  "description": "A vanity URL sniper for your discord server",
+  "main": "main.js",
+  "dependencies": {
+    "cfonts": "^2.9.1",
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "moment-timezone": "^0.5.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathandevjs/vanityurlsniper.git"
+  },
+  "keywords": [
+    "vanity",
+    "discord",
+    "sniper",
+    "nexon"
+  ],
+  "author": "NathanDevJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathandevjs/vanityurlsniper/issues"
+  },
+  "homepage": "https://github.com/nathandevjs/vanityurlsniper#readme"
+}
